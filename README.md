@@ -2,7 +2,7 @@
 
 Just messing around with Processing, Ableton, Max, and OSC messages.
 
-**Demo**
+**Demo Video**
 https://github.com/user-attachments/assets/32aa76d2-0048-4061-9c6d-00d30a53306d
 
 
